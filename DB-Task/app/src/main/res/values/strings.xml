@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DB_Practice_1</string>
+    <string name="StudentName">Enter student name</string>
+    <string name="RollNumber">Enter roll number</string>
+    <string name="IsEnrolled">IsEnrolled</string>
+    <string name="ButtonViewAll">View All Records</string>
+    <string name="Add">Add Record</string>
+    <string name="updatename">UpdateName</string>
+    <string name="delete">Delete</string>
+</resources>
